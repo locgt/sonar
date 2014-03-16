@@ -7,8 +7,8 @@ import time
 import datetime
 import requests
  
-FEED_ID = "2143529336"  #enter your feed ID number here
-API_KEY = "bFyf8XSf4XWAaRPXHkO4SEQwf00egWB2w3RyjlNxRo02K3lb"  #set your API key here
+FEED_ID = "your feed id here"  #enter your feed ID number here
+API_KEY = "Your API key here"  #set your API key here
 DEBUG = True
  
 # initialize api client
